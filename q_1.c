@@ -10,7 +10,8 @@ int main() {
 
 
         printf("The third element is : %d\n", myarray[2]);
-          printf("The value of the third element using the prt+2 is : %d", *(ptr+2));
+          printf("The value of the third element using the prt+2 is : %d \n", *(ptr+2));
+
 
           // it proves that *(array[0]+i = arr[i])
 
